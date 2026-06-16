@@ -1,0 +1,14 @@
+[{
+  "id" : "zw.fhir.ig.epi",
+  "type" : "ImplementationGuide",
+  "url" : "http://mohcc.gov.zw/fhir/epi/ImplementationGuide/zw.fhir.ig.epi",
+  "version" : "0.1.0",
+  "name" : "ZWEpi"
+},
+{
+  "id" : "zw-immunization",
+  "type" : "StructureDefinition",
+  "url" : "http://mohcc.gov.zw/fhir/epi/StructureDefinition/zw-immunization",
+  "version" : "0.1.0",
+  "name" : "ZimImmunization"
+}]
